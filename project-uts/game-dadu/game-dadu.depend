@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1666244879 source:e:\a11.2020.12544\pertemuan-7-project-uts\game-dadu\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string>
+
+1666198256 source:d:\perkuliahan\teknik informatika\semester 5\game programming - a11.4513\materi\pertemuan-7-project-uts\game-dadu\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string>
+
